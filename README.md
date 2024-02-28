@@ -2,7 +2,7 @@
 <center>
 <head><h1>The Baja Inn Restaurant</h1></head>
 <style>
-body  {background-image: url("https://github.com/ColtonFry/Restaurant-Menu/assets/157807270/88609ea6-de2b-449e-805a-677fb3b9949a")} </style>
+body  {background-image: url("https://cdn11.bigcommerce.com/s-ek50668lzs/images/stencil/1280x1280/products/2943/4252/2425__16675.1583427467.jpg?c=1?imbypass=on")} </style>
 </head>
 <style>"width:400px; height:550px; padding:50px;</style>
 <h2><b>BREAKFAST MENU</b></b>
