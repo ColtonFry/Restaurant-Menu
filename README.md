@@ -1,4 +1,4 @@
-<div style="width:400px; height:550px; padding:50px; background-color:#888888;">
+
 
 <head>
 <style>
@@ -7,7 +7,7 @@ body  {
 }
 </head>
 
-
+<div style="width:400px; height:550px; padding:50px; background-color:#888888;">
    <center><h1>The Baja Inn Restaurant</h1>
 <h2><b>BREAKFAST MENU</b></b>
 <h4>
