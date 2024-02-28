@@ -2,9 +2,12 @@
 <center>
 <head><h1>The Baja Inn Restaurant</h1></head>
 <style>
-body  {background-image: url("https://cdn11.bigcommerce.com/s-ek50668lzs/images/stencil/1280x1280/products/2943/4252/2425__16675.1583427467.jpg?c=1?imbypass=on");
+body  {background-image: url("https://cdn11.bigcommerce.com/s-ek50668lzs/images/stencil/550x550/products/2943/4252/2425__16675.1583427467.jpg?c=1?imbypass=on");
 
- background-size: 600px;
+ background-size:400px;
+ background-repeat:no-repeat;
+  background-size: 
+  background-position: center;
   width: 400px;
   height: 550px;
   border: 2px solid;</style>
