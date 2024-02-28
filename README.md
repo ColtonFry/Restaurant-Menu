@@ -36,6 +36,22 @@ $6.99
 The Pancake Stack
 3 Pancakes, choice of sausage, ham or bacon
 $6.99
+<br>
+<br>
+DRINKS
+<br>
+Coffee
+$1.00
+<br>
+Soft Drinks
+Pepsi,
+Mt. Dew,
+Root Beer,
+Slice
+$1.00
+<br>
+Orange Juice & Apple Juice
+$1.50
 </center>
 
 
