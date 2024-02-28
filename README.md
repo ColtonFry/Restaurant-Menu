@@ -1,10 +1,8 @@
-<head>
+ <center><head><h1>The Baja Inn Restaurant</h1></head>
 <style>
 body  {background-image: url("https://github.com/ColtonFry/Restaurant-Menu/assets/157807270/88609ea6-de2b-449e-805a-677fb3b9949a");}"width:400px; height:550px; padding:50px;</style>
 </head>
 
-
-   <center><h1>The Baja Inn Restaurant</h1>
 <h2><b>BREAKFAST MENU</b></b>
 <h4>
 
@@ -57,5 +55,6 @@ $1.00
 <br>
 Orange Juice & Apple Juice
 $1.50
-</center>
+</h4>
+
 </body>
