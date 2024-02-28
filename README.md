@@ -1,4 +1,10 @@
+<img src="[your-image-path.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fbreakfast-plate&psig=AOvVaw1uZU1dzpXRXuTOaONXDe-d&ust=1709219411920000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDnrdCozoQDFQAAAAAdAAAAABAE)" alt="Breakfast Menu">
 
+width: 300px; height 550px;
+
+border: 2px solid red;
+
+}
    <center><h1>The Baja Inn Restaurant</h1>
 <h2><b>BREAKFAST MENU</b></b>
 <h4>
