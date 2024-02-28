@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-p {
-  background-image: https://lh3.googleusercontent.com/p/AF1QipMyXjaiSZk8RZzaOgnOymTRbzEkSCc9QLfTYBWk=s680-w680-h510('img_breakfast.jpg');
-}
-</style>
-</head>
-<body>
+
    <center><h1>The Baja Inn Restaurant</h1>
 <h2><b>BREAKFAST MENU</b></b>
 <h4>
