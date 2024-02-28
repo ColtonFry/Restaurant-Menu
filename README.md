@@ -38,8 +38,8 @@ The Pancake Stack
 $6.99
 <br>
 <br>
-DRINKS
-<br>
+<h2>DRINKS</h2>
+<h4>
 Coffee
 $1.00
 <br>
