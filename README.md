@@ -1,4 +1,4 @@
-background: url(some_file_path.png);
+background:(https://github.com/ColtonFry/Restaurant-Menu/issues/1#issue-2159297200)
   
    <center><h1>The Baja Inn Restaurant</h1>
 <h2><b>BREAKFAST MENU</b></b>
