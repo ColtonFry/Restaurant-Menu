@@ -1,16 +1,19 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <center>
 <head><h1>The Baja Inn Restaurant</h1></head>
 <style>
-body  {background-image: url("https://cdn11.bigcommerce.com/s-ek50668lzs/images/stencil/1280x1280/products/2943/4252/2425__16675.1583427467.jpg?c=1?imbypass=on")} </style>
+body  {background-image: url("https://cdn11.bigcommerce.com/s-ek50668lzs/images/stencil/1280x1280/products/2943/4252/2425__16675.1583427467.jpg?c=1?imbypass=on");
+
+ background-size: 600px;
+  width: 400px;
+  height: 550px;
+  border: 2px solid;</style>
 </head>
-<style>"width:400px; height:550px; padding:50px;</style>
+
 <h2><b>BREAKFAST MENU</b></b>
 <h4>
 
-Cruisin For A Bruisin
-$10.99
-<br>
+
 <br>
 GREASER Breakfast
 $11.99
@@ -41,7 +44,6 @@ $6.99
 The Pancake Stack
 3 Pancakes, choice of sausage, ham or bacon
 $6.99
-<br>
 <br>
 <h2>DRINKS</h2>
 <h4>
