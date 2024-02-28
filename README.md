@@ -1,4 +1,5 @@
-  <div style="background-color:green;color:black;padding:2%;"><br><h1>The Baja Inn Restaurant</h1>
+  <div style="background-color:	00FF00;color:black;padding:2%;">
+    <center><h1>The Baja Inn Restaurant</h1>
 <h2><b>BREAKFAST MENU</b></b>
 <h4>
 
@@ -35,5 +36,6 @@ $6.99
 The Pancake Stack
 3 Pancakes, choice of sausage, ham or bacon
 $6.99
+</center>
 
 
