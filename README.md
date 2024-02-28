@@ -1,10 +1,6 @@
-<h1>The Baja Inn Restaurant</h1>
+  <div style="background-color:green;color:black;padding:2%;"><br><h1>The Baja Inn Restaurant</h1>
 <h2><b>BREAKFAST MENU</b></b>
 <h4>
-<div style="width:400px; height:550px; padding:20px; background-color:#006800; margin:20px;">
-</div>
-<div style="border: 3px solid black; border-width: thic;: 6px dotted #FFFFFF;"></div>
-
 
 Cruisin For A Bruisin
 $10.99
@@ -39,6 +35,5 @@ $6.99
 The Pancake Stack
 3 Pancakes, choice of sausage, ham or bacon
 $6.99
-</h4>
-<br/>
+
 
