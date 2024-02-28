@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <center>
 <head><h1>The Baja Inn Restaurant</h1></head>
 <style>
@@ -10,7 +10,17 @@ body  {background-image: url("https://cdn11.bigcommerce.com/s-ek50668lzs/images/
   background-position: center;
   width: 400px;
   height: 550px;
-  border: 2px solid;</style>
+  border: 2px solid;
+  padding-top: 10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;</style>
+  
+ 
 </head>
 
 <h2><b>BREAKFAST MENU</b></b>
@@ -65,3 +75,4 @@ $1.50
 </h4>
 
 </body>
+
