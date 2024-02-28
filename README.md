@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div {
-  border: 10px solid black;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-  background-color: ;black
-}
-</style>
-</head>
-  <div>
+<div style="width:400px; height:550px; padding:50px; background-color:#555555;">
 <body>
    <center><h1>The Baja Inn Restaurant</h1>
 <h2><b>BREAKFAST MENU</b></b>
@@ -69,5 +55,3 @@ Orange Juice & Apple Juice
 $1.50
 </center>
 </body>
-</div>
-
