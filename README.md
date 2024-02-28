@@ -19,7 +19,7 @@ Buttermilk Biscuits And Gravy
 $8.99
 <br>
 <br>
-Groovy Sunrise
+Sunrise Surprise
 2 Eggs, bacon strips, 2 piece of toast
 $7.99
 <br>
